@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\petle\bin\Debug\petle.exe.config
+C:\Users\Student\Desktop\petle\bin\Debug\petle.exe
+C:\Users\Student\Desktop\petle\bin\Debug\petle.pdb
+C:\Users\Student\Desktop\petle\obj\Debug\petle.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\petle\obj\Debug\petle.exe
+C:\Users\Student\Desktop\petle\obj\Debug\petle.pdb
